@@ -1,3 +1,1 @@
-# dummy
-
-This is the 1st test.
+This is a test from MobaExterm
